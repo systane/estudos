@@ -22,24 +22,29 @@
     - Session authorization (o que é, como configurar um server backend, quais os pontos fracos);
     - JWT (Json Web Token) (o que é, como configurar um server backend, quais os pontos fracos);
     - OAuth 2.0 (https://www.youtube.com/watch?v=996OiexHze0)
-1. Cache:
+1. Containers:
+    - Docker;
+    - Docker Compose;
+    - Kubernetes;
+3. Cache:
     - Redis;
     - Caffeine;
-1. AWS: https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063
+4. AWS: https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063
     - IAM;
     - EC2;
     - S3;
     - DynamoDB;
     - AWS CLI;
     - RDS;
-1. Banco de dados:
+5. Banco de dados:
     - Postgres;
     - Mongodb (Como fazer consultas sem ajuda de frameworks? Como conectar o spring ou micronaut com o mongo?)
-1. Microservices:
+6. Microservices:
     - HATEOAS: https://martinfowler.com/articles/richardsonMaturityModel.html
     - Circuit Breaker (resilience4j): https://martinfowler.com/bliki/CircuitBreaker.html
     - Service discovery pattern;
     - Gateway;
     - Load Balance;
+    - Observability (Metricas, Tracing e Logging)
 
     
